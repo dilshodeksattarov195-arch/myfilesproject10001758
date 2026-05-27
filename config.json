@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchencrypt",
+        "uuid": 15976704,
+        "checksum": "6mm96h"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
